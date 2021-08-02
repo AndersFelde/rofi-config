@@ -1,0 +1,7 @@
+/** Basic config file **/
+
+configuration {
+    /* theme: "/usr/share/rofi/themes/moon.rasi";   */
+    show-icons:         true;
+    icon-theme:         "Papirus";
+}
